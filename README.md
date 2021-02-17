@@ -1,3 +1,3 @@
-# Chat de Héroes
+# Service Worker Practice
 
 Un cascarón de chat usando jQuery para PWAs
